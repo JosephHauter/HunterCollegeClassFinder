@@ -23,7 +23,8 @@ On this project on how to navigate around cookie sessions and generating new one
 
 ## How to use?
 Create .env in the directory and add this
-```WEBHOOK=YOUR_DISCORD_WEBHOOK
+```plaintext
+WEBHOOK=YOUR_DISCORD_WEBHOOK
 ```
 and replace `YOUR_DISCORD_WEBHOOK` with your actual discord webhook
 
